@@ -1,0 +1,9 @@
+=== Lab 1: Extract Text ===
+Reading file: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\data\sex_q_a.txt
+Found a total of 391 question-answer pairs
+Results saved to: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\outputs\extracted_text.json
+
+Sample data read:
+  - [สุขภาพทางเพศและการป้องกัน] Q: โรคติดต่อทางเพศสัมพันธ์ (STI) คืออะไร มีอะไรบ้าง...
+  - [สุขภาพทางเพศและการป้องกัน] Q: ทำไม STI หลายชนิดจึงไม่แสดงอาการ...
+

@@ -1,0 +1,42 @@
+{
+  "executed_at_utc": "2026-10-28T11:12:46.716805+00:00",
+  "records": 391,
+  "chunks": 541,
+  "embedding_shape": [
+    541,
+    384
+  ],
+  "faiss_vectors": 541,
+  "sample_queries": 4,
+  "labs": [
+    {
+      "script": "lab01_extract_text.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab02_chunking.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab03_create_embeddings.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab04_create_vector_db.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab05_query_embedding.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab06_similarity_search.py",
+      "exit_code": 0
+    },
+    {
+      "script": "lab07_complete_retrieval.py",
+      "exit_code": 0
+    }
+  ],
+  "answer_mode": "retrieval_only_no_llm"
+}

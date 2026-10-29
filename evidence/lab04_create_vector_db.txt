@@ -1,0 +1,6 @@
+=== Lab 4: Create Vector Database ===
+Vector Number: 541, Number of chunks: 541
+[vector_store] Saved FAISS index to: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\vector_db\document.index
+[vector_store] Saved chunk store to: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\vector_db\chunk_store.json
+Vector database created successfully
+

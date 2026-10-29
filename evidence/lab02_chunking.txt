@@ -1,0 +1,8 @@
+=== Lab 2: Chunking ===
+Reading file: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\outputs\extracted_text.json
+Found a total of 541 chunks from 391 question-answer pairs
+Results saved to: C:\Users\joeyt\Documents\Codex\2026-10-28\x20\outputs\course-assignments\03-RAG\outputs\chunks.json
+
+Sample chunk:
+  Question: โรคติดต่อทางเพศสัมพันธ์ (STI) คืออะไร มีอะไรบ้าง Answer: โรคติดต่อทางเพศสัมพันธ์ (Sexually...
+
